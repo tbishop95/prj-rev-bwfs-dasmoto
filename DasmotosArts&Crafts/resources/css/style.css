@@ -1,0 +1,44 @@
+/* Dasmoto CSS */
+
+body {
+  font-family: Helvetica;
+}
+
+.header {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  /*not part of the spec but i didn't like the look of the large amounts of white space*/
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.equipment h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #fff;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
